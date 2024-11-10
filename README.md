@@ -30,3 +30,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
+
+###
+
+<h1 align="left">Apoie</h1>
+
+###
+
+<br clear="both">
+
+<img align="left" height="160" src="https://defren-gabriel.github.io/bookmarks/pix-logo-red.png"  />
+
+###
+
+<p align="left">Gostou do meu trabalho e gostaria de me ajudar a manter meus gatos? Faça uma doação para o seguinte pix:</p>
+
+###
+
+<p align="left">defren.gabriel@gmail.com</p>
+
+###
+
+<p align="left">Obrigado.</p>
+
+###
