@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Gostou do meu trabalho e gostaria de me ajudar a manter meus gatos? Faça uma doação para o seguinte pix:</p>
+<p align="left">Gostou do meu trabalho e gostaria de ajudar a manter meus gatos? Faça uma doação para o seguinte pix:</p>
 
 ###
 
