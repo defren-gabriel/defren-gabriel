@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img align="left" height="160" src="https://defren-gabriel.github.io/bookmarks/logo-pix-256x.png"  />
+<img align="left" height="180" src="https://defren-gabriel.github.io/bookmarks/logo-pix-256x.png"  />
 
 ###
 
