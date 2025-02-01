@@ -51,6 +51,6 @@
 
 ###
 
-<p align="left">Obrigado.</p>
+<p align="left">A vitória será minha, obrigado.</p>
 
 ###
