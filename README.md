@@ -50,6 +50,19 @@
 
 ###
 
+<h1 align="left">Redes Sociais</h1>
+
+###
+
+<div align="left">
+  <figure>
+    <img src="https://defren-gabriel.github.io/bookmarks/linkedin-icone.png" height="64" alt="LinkedIn logo" />
+    <figcaption>[LinkedIn](https://www.linkedin.com/in/defren-gabriel/)</figcaption>
+  </figure>
+</div>
+
+###
+
 <h1 align="left">Apoie</h1>
 
 ###
