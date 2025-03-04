@@ -21,7 +21,7 @@
 
 ###
 
-<div align="left" style="display: flex; flex-wrap: wrap; flex-direction: row; justify-content: flex-start; align-items: center;">
+<div align="left">
   <figure style="display: inline-block; text-align: center; margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
     <figcaption>HTML5</figcaption>
