@@ -74,6 +74,4 @@
 
 <h1 align="left">Currículo</h1>
 
-###
-
 [Link do currículo](https://defren-gabriel.github.io/bookmarks/curriculo-gabriel4mar2025.pdf)
